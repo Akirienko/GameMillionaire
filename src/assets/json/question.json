@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "question": "How old your elder brother was 10 years before you was born, mate?",
+      "answer": "a",
+      "answers": [
+        {
+          "name": "Harry Potter",
+          "value": "a"
+        },
+        {
+          "name": "Ciri",
+          "value": "b"
+        },
+        {
+          "name": "The White Wolf",
+          "value": "c"
+        },
+        {
+          "name": "Redux form must die!",
+          "value": "d"
+        }
+      ],
+      "level": 1,
+      "rightAnswer": 500,
+      "wrongAnswer": ["rightAnswer A, sorry you lose"]
+    },
+    {
+      "question": "Name these fruits in alphabetical order?",
+      "answer": "b",
+      "level": 2,
+      "answers": [
+        {
+          "name": "orange",
+          "value": "a"
+        },
+        {
+          "name": "apple",
+          "value": "b"
+        },
+        {
+          "name": "banana",
+          "value": "c"
+        },
+        {
+          "name": "peach",
+          "value": "d"
+        }
+      ],
+      "rightAnswer": 1000,
+      "wrongAnswer": ["rightAnswer A, sorry you lose"]
+    },
+    {
+      "question": "What is the national symbol of Canada?",
+      "answer": "b",
+      "level": 3,
+      "answers": [
+        {
+          "name": "The bald eagle",
+          "value": "a"
+        },
+        {
+          "name": "The rose",
+          "value": "b"
+        },
+        {
+          "name": "The magnolia tree ",
+          "value": "c"
+        },
+        {
+          "name": "Redux form must die!",
+          "value": "d"
+        }
+      ],
+      "rightAnswer": 2000,
+      "wrongAnswer": ["rightAnswer A, sorry you lose"]
+    },
+    {
+      "question": "Where can you see pelicans?",
+      "answer": "d",
+      "level": 4,
+      "answers": [
+        {
+          "name": "Hyde park",
+          "value": "a"
+        },
+        {
+          "name": "St, James park",
+          "value": "b"
+        },
+        {
+          "name": "Central park ",
+          "value": "c"
+        },
+        {
+          "name": "Regent’s park",
+          "value": "d"
+        }
+      ],
+      "rightAnswer": 4000,
+      "wrongAnswer": ["rightAnswer A, sorry you lose"]
+    },
+    {
+      "question": " Who is the head of England?",
+      "answer": "a",
+      "level": 5,
+      "answers": [
+        {
+          "name": "the Queen",
+          "value": "a"
+        },
+        {
+          "name": "the Tsar",
+          "value": "b"
+        },
+        {
+          "name": "the Princess",
+          "value": "c"
+        },
+        {
+          "name": "the Prince",
+          "value": "d"
+        }
+      ],
+      "rightAnswer": 8000,
+      "wrongAnswer": ["rightAnswer A, sorry you lose"]
+    },
+    {
+      "question": "What is the largest city in Australia?",
+      "answer": "b",
+      "level": 6,
+      "answers": [
+        {
+          "name": "Canberra",
+          "value": "a"
+        },
+        {
+          "name": "Sydney",
+          "value": "b"
+        },
+        {
+          "name": "Melbourne",
+          "value": "c"
+        },
+        {
+          "name": "Brisbane",
+          "value": "d"
+        }
+      ],
+      "rightAnswer": 16000,
+      "wrongAnswer": ["rightAnswer A, your win 8000$"]
+    },
+    {
+      "question": "Day of Spring and Labour: ",
+      "answer": "d",
+      "level": 7,
+      "answers": [
+        {
+          "name": "12 June",
+          "value": "a"
+        },
+        {
+          "name": " 9 May",
+          "value": "b"
+        },
+        {
+          "name": " 4 November",
+          "value": "c"
+        },
+        {
+          "name": " 1 May",
+          "value": "d"
+        }
+      ],
+      "rightAnswer": 32000,
+      "wrongAnswer": ["rightAnswer A, your win 8000$"]
+    },
+    {
+      "question": "Yuri Dolgoruky founds Moscow in: ",
+      "answer": "c",
+      "level": 8,
+      "answers": [
+        {
+          "name": "1917",
+          "value": "a"
+        },
+        {
+          "name": "1861",
+          "value": "b"
+        },
+        {
+          "name": "1147",
+          "value": "c"
+        },
+        {
+          "name": "1991",
+          "value": "d"
+        }
+      ],
+      "rightAnswer": 64000,
+      "wrongAnswer": ["rightAnswer A, your win 8000$"]
+    },
+    {
+      "question": "The national currency of the UK is: ",
+      "answer": "d",
+      "level": 9,
+      "answers": [
+        {
+          "name": "the euro",
+          "value": "a"
+        },
+        {
+          "name": "the rouble",
+          "value": "b"
+        },
+        {
+          "name": "the dollar",
+          "value": "c"
+        },
+        {
+          "name": "the pound",
+          "value": "d"
+        }
+      ],
+      "rightAnswer": 125000,
+      "wrongAnswer": ["rightAnswer A, your win 8000$"]
+    },
+    {
+      "question": "Napoleon tries to conquer Russia.",
+      "answer": "a",
+      "level": 10,
+      "answers": [
+        {
+          "name": "1812",
+          "value": "a"
+        },
+        {
+          "name": "1861",
+          "value": "b"
+        },
+        {
+          "name": "1703",
+          "value": "c"
+        },
+        {
+          "name": "1917",
+          "value": "d"
+        }
+      ],
+      "rightAnswer": 250000,
+      "wrongAnswer": ["rightAnswer A, your win 125000$"]
+    },
+    {
+      "question": "Which is the hottest month of Australia?",
+      "answer": "d",
+      "level": 11,
+      "answers": [
+        {
+          "name": "August",
+          "value": "a"
+        },
+        {
+          "name": "September",
+          "value": "b"
+        },
+        {
+          "name": "April",
+          "value": "c"
+        },
+        {
+          "name": "January",
+          "value": "d"
+        }
+      ],
+      "rightAnswer": 500000,
+      "wrongAnswer": ["rightAnswer A, sorry you lose"]
+    },
+    {
+      "question": "Ben Nevis is: ",
+      "answer": "c",
+      "level": 12,
+      "answers": [
+        {
+          "name": "a famous sportsman",
+          "value": "a"
+        },
+        {
+          "name": "a sort of whiskey",
+          "value": "b"
+        },
+        {
+          "name": "a mountain",
+          "value": "c"
+        },
+        {
+          "name": "a lake",
+          "value": "d"
+        }
+      ],
+      "rightAnswer": 1000000,
+      "wrongAnswer": ["rightAnswer A, sorry you lose"]
+    }
+  ]
+}
